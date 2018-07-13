@@ -1,5 +1,6 @@
 #include "risk_graph.h"
-
+//llllll
+#include <stdio.h>
 risk_graph::risk_graph(int rows, int cols){
   num_of_barriers=12;
   barriers= new risk_barrier[12];
